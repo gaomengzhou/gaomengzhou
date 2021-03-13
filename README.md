@@ -1,4 +1,4 @@
-### Hello! 你好呀 👋 [![Express.JS](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou.github.io-informational)](https://gaomengzhou.github.io)
+### Hello! 你好呀 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/gaomengzhou/)](https://twitter.com/gaomengzhou/)
 [![Facebook Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/gaomengzhou/)](https://www.facebook.com/in/gaomengzhou/)
@@ -31,3 +31,5 @@
 - ⚡️ Fun fact: I love go to drink
 
 ![gaomengzhou's github stats](https://github-readme-stats.vercel.app/api?username=gaomengzhou&show_icons=true)
+
+### 好了,就这么多了! 👋 [![GitHub.Io](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou.github.io-informational)](https://gaomengzhou.github.io)
