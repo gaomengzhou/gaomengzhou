@@ -21,7 +21,7 @@
   ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=plastic&logo=vue.JS&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-ffffff?style=plastic&logo=Jenkins)
 - ⚙️ I also use and work: 
   ![Angular](https://img.shields.io/badge/-Angular-E34F26?style=plastic&logo=angular&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
