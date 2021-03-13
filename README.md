@@ -12,20 +12,20 @@
 - 🤔 I’m looking for help with how to get rich
 - 💬 Ask me about everything
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)](https://www.w3schools.com/js/DEFAULT.asp)
+  [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com/)
+  [![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)](https://www.runoob.com/linux/linux-shell.html)
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
 - 💻 I work using:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=plastic&logo=vue.JS&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-ffffff?style=plastic&logo=Jenkins)
+  [![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)](https://reactjs.org/)
+  [![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=plastic&logo=vue.JS&logoColor=white)](https://vuejs.org/index.html)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/)
+  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://about.gitlab.com/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-ffffff?style=plastic&logo=Jenkins)](https://www.jenkins.io/)
 - ⚙️ I also use and work: 
-  ![Angular](https://img.shields.io/badge/-Angular-E34F26?style=plastic&logo=angular&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  [![Angular](https://img.shields.io/badge/-Angular-E34F26?style=plastic&logo=angular&logoColor=white)](https://angular.io/)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://www.w3schools.com/css/default.asp)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-fff?style=plastic&logo=node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=plastic&logo=express&logoColor=white)
