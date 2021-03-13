@@ -32,4 +32,6 @@
 
 ![gaomengzhou's github stats](https://github-readme-stats.vercel.app/api?username=gaomengzhou&show_icons=true)
 
-### 好了,就这么多了! 👋 [![GitHub.Io](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou.github.io-informational)](https://gaomengzhou.github.io)
+### 好了,就这么多了! 👋 
+
+[![GitHub.Io](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou.github.io-informational)](https://gaomengzhou.github.io)
