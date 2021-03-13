@@ -28,7 +28,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-fff?style=plastic&logo=node.js) 
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-fff?style=plastic&logo=express&logoColor=white)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=plastic&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I love go to drink
 
