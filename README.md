@@ -27,9 +27,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 - 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-green?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=plastic&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I love go to drink
 
 ![gaomengzhou's github stats](https://github-readme-stats.vercel.app/api?username=gaomengzhou&show_icons=true)
