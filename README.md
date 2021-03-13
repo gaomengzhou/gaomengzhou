@@ -1,5 +1,6 @@
 ### Hello! 你好呀 👋
 
+[![Telegram Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Telegram&logoColor=white&link=https://t.me/isGMZ/)](https://t.me/isGMZ/)
 [![Twitter Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/gaomengzhou/)](https://twitter.com/gaomengzhou/)
 [![Facebook Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/gaomengzhou/)](https://www.facebook.com/in/gaomengzhou/)
 [![Linkedin Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E6%A2%A6%E8%88%9F-%E9%AB%98-559834105/)](https://www.linkedin.com/in/%E6%A2%A6%E8%88%9F-%E9%AB%98-559834105/)
