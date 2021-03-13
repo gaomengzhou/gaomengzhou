@@ -28,8 +28,8 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-green?style=plastic&logo=Node.js) 
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=plastic&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=plastic&logo=mongodb)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-green?style=plastic&logo=express&logoColor=white)
 - ⚡️ Fun fact: I love go to drink
 
 ![gaomengzhou's github stats](https://github-readme-stats.vercel.app/api?username=gaomengzhou&show_icons=true)
