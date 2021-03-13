@@ -1,4 +1,4 @@
-### Hello! 你好呀 👋 [![Express.JS](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou.github.io-9cf)](https://gaomengzhou.github.io)
+### Hello! 你好呀 👋 [![Express.JS](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou.github.io-informational)](https://gaomengzhou.github.io)
 
 [![Twitter Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/gaomengzhou/)](https://twitter.com/gaomengzhou/)
 [![Facebook Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/gaomengzhou/)](https://www.facebook.com/in/gaomengzhou/)
