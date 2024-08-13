@@ -16,7 +16,7 @@
   [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com/)
   [![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)](https://www.runoob.com/linux/linux-shell.html)
-  [![WebStorm](https://img.shields.io/badge/-WebStorm-14B6FE?style=plastic&logo=webstorm)](https://www.jetbrains.com/webstorm/)
+  [![WebStorm](https://img.shields.io/badge/-WebStorm-027DFF?style=plastic&logo=webstorm)](https://www.jetbrains.com/webstorm/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
 - 💻 I work using:
   [![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)](https://reactjs.org/)
