@@ -1,7 +1,7 @@
 ### Hello! 你好呀 👋
 
 [![Telegram Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Telegram&logoColor=white&link=https://t.me/isGMZ/)](https://t.me/isGMZ/)
-[![X Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=x&logoColor=white&link=https://twitter.com/gaomengzhou/)](https://twitter.com/gaomengzhou/)
+[![X Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=x&logoColor=white&link=https://x.com/gaomengzhou/)](https://x.com/gaomengzhou/)
 [![Facebook Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/gaomengzhou/)](https://www.facebook.com/in/gaomengzhou/)
 [![Linkedin Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E6%A2%A6%E8%88%9F-%E9%AB%98-559834105/)](https://www.linkedin.com/in/%E6%A2%A6%E8%88%9F-%E9%AB%98-559834105/)
 [![Gmail Badge](https://img.shields.io/badge/-emailofgmz@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:emailofgmz@gmail.com)](mailto:emailofgmz@gmail.com)
