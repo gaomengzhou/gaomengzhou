@@ -13,6 +13,7 @@
 - 💬 Ask me about everything
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)](https://www.w3schools.com/js/DEFAULT.asp)
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com/)
   [![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)](https://www.runoob.com/linux/linux-shell.html)
   [![WebStorm](https://img.shields.io/badge/-WebStorm-14B6FE?style=plastic&logo=webstorm)](https://www.jetbrains.com/webstorm/)
