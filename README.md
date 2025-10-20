@@ -4,7 +4,7 @@
 [![X Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=x&logoColor=white&link=https://x.com/gaomengzhou/)](https://x.com/gaomengzhou/)
 [![Facebook Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/gaomengzhou/)](https://www.facebook.com/in/gaomengzhou/)
 [![Linkedin Badge](https://img.shields.io/badge/-gaomengzhou-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E6%A2%A6%E8%88%9F-%E9%AB%98-559834105/)](https://www.linkedin.com/in/%E6%A2%A6%E8%88%9F-%E9%AB%98-559834105/)
-[![Gmail Badge](https://img.shields.io/badge/-emailofgmz@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gaomengzhou1024@gmail.com)](mailto:emailofgmz@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gaomengzhou1024@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gaomengzhou1024@gmail.com)](mailto:emailofgmz@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-gaomengzhou-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWJElCgbJP2_L2nz_eOzC6Q)](https://www.youtube.com/channel/UCWJElCgbJP2_L2nz_eOzC6Q)
 [![Instagram Badge](https://img.shields.io/badge/-gaomengzhou-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/gaomengzhou/)](https://instagram.com/gaomengzhou)
 
